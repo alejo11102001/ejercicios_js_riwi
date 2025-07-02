@@ -1,0 +1,96 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "names": "Ana López",
+      "email": "ana@gmail.com",
+      "rol": "admin",
+      "phone": "30012345",
+      "address": "Calle 123 #45-67",
+      "activo": true,
+      "dateRegister": "2024-01-15",
+      "age": 23,
+      "gender": "femenino"
+    },
+    {
+      "id": "2",
+      "names": "Lisandro López",
+      "email": "Lisandro@hotmail.com",
+      "rol": "user",
+      "phone": "3227654321",
+      "address": "Calle 3 #40-60",
+      "activo": false,
+      "dateRegister": "2025-07-02",
+      "age": 23,
+      "gender": "masculino"
+    },
+    {
+      "id": "3",
+      "names": "Valeria López",
+      "email": "valeria@amigo.com",
+      "rol": "user",
+      "phone": "3001234567",
+      "address": "Calle 123 #45-67",
+      "activo": true,
+      "dateRegister": "2024-01-15",
+      "age": 31,
+      "gender": "femenino"
+    },
+    {
+      "id": "4",
+      "names": "Fabio López",
+      "email": "Fabio@hotmail.com",
+      "rol": "user",
+      "phone": "3001234567",
+      "address": "Calle 123 #45-67",
+      "activo": false,
+      "dateRegister": "2024-01-15",
+      "age": 20,
+      "gender": "masculino"
+    },
+    {
+      "id": "5",
+      "names": "Amaranto López",
+      "email": "amaranto@gmail.com",
+      "rol": "admin",
+      "phone": "3112223344",
+      "address": "Calle 1 #45-67",
+      "activo": true,
+      "dateRegister": "2024-02-22",
+      "age": 30,
+      "gender": "masculino"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Diseñar la página de inicio",
+      "description": "Crear el diseño responsive para la home",
+      "state": "pendiente",
+      "priority": "alta",
+      "dateCreation": "2024-06-01",
+      "fechaEntrega": "2024-06-10",
+      "UserId": "3d5f"
+    },
+    {
+      "id": "2",
+      "title": "Finalizar la página de inicio",
+      "description": "Finalizar el diseño responsive para la home",
+      "state": "Completado",
+      "priority": "Alta",
+      "dateCreation": "2025-07-01",
+      "fechaEntrega": "2026-05-11",
+      "UserId": "4hhh"
+    },
+    {
+      "id": "4",
+      "title": "Hacer la página de inicio",
+      "description": "Hacer el diseño responsive para la home",
+      "state": "pendiente",
+      "priority": "alta",
+      "dateCreation": "2024-06-01",
+      "fechaEntrega": "2025-08-10",
+      "UserId": "3tyg"
+    }
+  ]
+}
